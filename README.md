@@ -6,7 +6,7 @@
 
 Enjoying business case championships. 
 
-Passionate about data analysis, interested in machine learning. Currently learning these topics on my own, primarily using [datacamp](www.datacamp.com) and [coursera](www.coursera.com). 
+Passionate about data analysis since my first year at university, after taking an introductory course on this topic. Interested in machine learning. I am currently studying these topics on my own, mostly using [data camp] (https://www.delacamp.com) and [coursera](https://www.coursera.org).
 
 #### Tools 🔧 :
 
