@@ -16,7 +16,7 @@ tasks = ['data manipulation', 'web scarpping', 'data visualization', 'machine le
 ```
 ```sql
 SELECT * FROM me
-WHERE info = "But I also know some SQL"
+WHERE info = "I also know some SQL"
 AND tasks IN ("writing_queries", "reporting")
 AND dialect = "PostgreSQL";
 ```
