@@ -14,7 +14,7 @@ Currently studying ML and data analysis on my own, mostly using [datacamp](https
 #### Tools 🔧 :
 
 ```python
-print('My main tool is python! 🐍')
+print('My main tool is python 🐍! ')
 libraries = ['pandas', 'numpy', 'matplotlib', 'seaborn', 'scikit-learn']
 tasks = ['data manipulation', 'web scarpping', 'data visualization', 'machine learning']
 ```
