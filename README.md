@@ -1,7 +1,7 @@
-#  Maxim Grinin
+###  Maxim Grinin
 
->> Higher School of Economics in Saint-Petersburg.
->>> 3rd year Economics student
+> Higher School of Economics in Saint-Petersburg.
+>> 3rd year Economics student
 
 Enjoying business case championships. 
 
