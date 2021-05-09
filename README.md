@@ -7,7 +7,7 @@ Enjoying business case championships.
 
 Passionate about data analysis, interested in machine learning. Currently learning these topics on my own, primarily using datacamp.com and coursera.com
 
-#### Tools 🛠️:
+#### Tools 🔧:
 
 ```python
 print('My main tool is python!')
