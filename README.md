@@ -11,9 +11,11 @@ Tools: python (pandas, numpy, matplotlib, seaborn, scikit-learn), SQL (PostgreSQ
 
 ```python
 print('My main tool is python!')
+libraries = ['pandas', 'numpy', 'matplotlib', 'seaborn', 'scikit-learn']
 ```
 ```sql
-SELECT 'but i also use SQL'
+SELECT info FROM me
+WHERE i_also_use = SQL (PostgreSQL)
 ```
 
 [LinkedIn 💼](https://www.linkedin.com/in/mkgrinin/)
