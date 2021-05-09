@@ -7,7 +7,7 @@ Enjoying business case championships.
 
 Passionate about data analysis, interested in machine learning. Currently learning these topics on my own, primarily using datacamp.com and coursera.com
 
-Tools: python (pandas, numpy, matplotlib, seaborn, scikit-learn), SQL (PostgreSQL)
+##### Tools 🛠️:
 
 ```python
 print('My main tool is python!')
@@ -15,7 +15,7 @@ libraries = ['pandas', 'numpy', 'matplotlib', 'seaborn', 'scikit-learn']
 ```
 ```sql
 SELECT info FROM me
-WHERE i_also_use = SQL (PostgreSQL)
+WHERE info = "But I also know some SQL"
 ```
 
 [LinkedIn 💼](https://www.linkedin.com/in/mkgrinin/)
