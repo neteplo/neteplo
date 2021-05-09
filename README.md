@@ -12,10 +12,12 @@ Passionate about data analysis, interested in machine learning. Currently learni
 ```python
 print('My main tool is python!')
 libraries = ['pandas', 'numpy', 'matplotlib', 'seaborn', 'scikit-learn']
+tasks = ['data manipulation', 'web scarpping', 'data visualization', 'machine learning']
 ```
 ```sql
-SELECT info FROM me
-WHERE info = "But I also know some SQL";
+SELECT info, tasks FROM me
+WHERE info = "But I also know some SQL"
+AND tasks IN (writing_queries, reporting);
 ```
 
 [LinkedIn 💼](https://www.linkedin.com/in/mkgrinin/)
