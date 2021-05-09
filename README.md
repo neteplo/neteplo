@@ -6,7 +6,7 @@
 >>>> [LinkedIn 💼](https://www.linkedin.com/in/mkgrinin/) [CV 📃](https://www.dropbox.com/s/e3ci9s6xp4t8qsl/CV_Grinin_En.pdf?dl=0)
 
 Enjoying business case championships.  
-Passionate about data analysis from the first year at university, after completing an introductory course on the topic!
+Passionate about data analysis from the first year at university, after completing an introductory course on the topic!  
 Interested in machine learning. 
 
 Currently studying ML and data analysis on my own, mostly using [datacamp](https://www.delacamp.com) and [coursera](https://www.coursera.org).
