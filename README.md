@@ -15,9 +15,9 @@ Currently studying ML and data analysis on my own, mostly using [datacamp](https
 
 ```python
 print('My main tool is python 🐍!')
+IDE = 'Jupyter Lab'
 libraries = ['selenium', 'bs4', 'pandas', 'numpy', 'matplotlib', 'seaborn', 'scikit-learn']
 tasks = ['web scarpping', 'data manipulation', 'data visualization', 'machine learning']
-IDE = 'Jupyter Lab'
 ```
 ```sql
 SELECT * FROM me
