@@ -15,9 +15,10 @@ libraries = ['pandas', 'numpy', 'matplotlib', 'seaborn', 'scikit-learn']
 tasks = ['data manipulation', 'web scarpping', 'data visualization', 'machine learning']
 ```
 ```sql
-SELECT info, tasks FROM me
+SELECT * FROM me
 WHERE info = "But I also know some SQL"
-AND tasks IN (writing_queries, reporting);
+AND tasks IN ("writing_queries", "reporting")
+AND dialect = "PostgreSQL";
 ```
 
 [LinkedIn 💼](https://www.linkedin.com/in/mkgrinin/)
