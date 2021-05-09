@@ -2,7 +2,7 @@
 
 > 3rd year Economics student
 >> Higher School of Economics in Saint-Petersburg.
->> [LinkedIn 💼](https://www.linkedin.com/in/mkgrinin/) [CV 📃](https://www.dropbox.com/s/e3ci9s6xp4t8qsl/CV_Grinin_En.pdf?dl=0)
+>>> [LinkedIn 💼](https://www.linkedin.com/in/mkgrinin/) [CV 📃](https://www.dropbox.com/s/e3ci9s6xp4t8qsl/CV_Grinin_En.pdf?dl=0)
 
 Enjoying business case championships. 
 
