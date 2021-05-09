@@ -12,6 +12,9 @@ Tools: python (pandas, numpy, matplotlib, seaborn, scikit-learn), SQL (PostgreSQ
 ```python
 print('My main tool is python!')
 ```
+```sql
+SELECT 'but i also use SQL'
+```
 
 [LinkedIn 💼](https://www.linkedin.com/in/mkgrinin/)
 
