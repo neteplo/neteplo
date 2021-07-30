@@ -2,7 +2,7 @@
 
 > Student at *Higher School of Economics* in Saint-Petersburg
 >> Faculty: *School of Managment and Economics*
->>> 3rd year *Economics (BA)*
+>>> 4th year *Economics (BA)*
 >>>> [LinkedIn 💼](https://www.linkedin.com/in/mkgrinin/) [CV 📃](https://www.dropbox.com/s/e3ci9s6xp4t8qsl/CV_Grinin_En.pdf?dl=0)
 
 Enjoying business case championships.  
